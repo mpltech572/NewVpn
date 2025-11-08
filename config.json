@@ -609,7 +609,6 @@
             "SquidProxy": "creators.trueid.net",
             "SquidPort": "80",
             "SSLPort": "",
-Player,
             "NetworkFrontQuery": "",
             "NetworkBackQuery": "",
             "SelectedProtocal": "HTTP Proxy",
