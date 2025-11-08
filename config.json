@@ -1,6 +1,6 @@
 {
-    "Version": "5.0"
-        "Servers": [
+    "Version": "5.0",
+    "Servers": [
         {
             "Name": "THILAND | 01",
             "Info": "",
@@ -609,6 +609,7 @@
             "SquidProxy": "creators.trueid.net",
             "SquidPort": "80",
             "SSLPort": "",
+Player,
             "NetworkFrontQuery": "",
             "NetworkBackQuery": "",
             "SelectedProtocal": "HTTP Proxy",
