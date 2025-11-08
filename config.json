@@ -1,0 +1,29 @@
+{
+  "version": 1.0,
+  "servers": [
+    {
+      "name": "Thailand 01 (Test)",
+      "ip": "123.45.67.89",
+      "port": 443,
+      "user": "test_user",
+      "pass": "test_pass"
+    },
+    {
+      "name": "Singapore 01 (Test)",
+      "ip": "98.76.54.32",
+      "port": 22,
+      "user": "test_user",
+      "pass": "test_pass"
+    }
+  ],
+  "payloads": [
+    {
+      "name": "TRUE (Test Payload)",
+      "payload_string": "CONNECT [host_port] HTTP/1.1\r\nHost: www.true.th\r\n\r\n"
+    },
+    {
+      "name": "DTAC (Test Payload)",
+      "payload_string": "CONNECT [host_port] HTTP/1.1\r\nHost: www.dtac.co.th\r\n\r\n"
+    }
+  ]
+}
